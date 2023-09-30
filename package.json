@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/amethystnetwork-dev/Incognito"
   
-  "author": "caracal-js and Amethyst Network contributors",
+  "author": "caracal-js,
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@amethystnetwork-dev/incognito-gfiles": "https://github.com/amethystnetwork-dev/Incognito-gfiles/archive/ede130174c30fc6931b3e7ba842341d90f958f5e.tar.gz",
